@@ -1,5 +1,3 @@
-# OnoGrindzManoa
-
 # Table of contents
 
 * [About OnoGrindzManoa](#about-onogrindzmanoa)
