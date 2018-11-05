@@ -1,3 +1,8 @@
 title: Ono Grindz Manoa
 description: Finding the Best Food for the UH Community
+google_analytics: 
+show_downloads: false
 theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
