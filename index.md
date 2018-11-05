@@ -1,3 +1,4 @@
+# Ono Grindz Manoa
 # Table of contents
 
 * [About OnoGrindzManoa](#about-onogrindzmanoa)
