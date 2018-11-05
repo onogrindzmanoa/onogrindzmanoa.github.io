@@ -45,6 +45,6 @@ The development process for OnoGrindzManoa will conform to [Issue Driven Project
 
 This milestone started on November 6, 2018 and will end on November 15, 2018.
 
-The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system. 
+The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system along with a functional landing page with a user login option. 
 
 Additional milestones will be added as the project progresses.
