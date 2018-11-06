@@ -18,9 +18,11 @@ We also aim to provide a filter page, available to those who can login to the sy
 ## Landing Page
 When the user first arrives on the landing page, they are greeted and informed of what the app does and the services it offers.
 <img src="doc/landing.png">
+
 ## Login
 Clicking Login from the Landing page pulls up the Login window. Users can either create an account or sign in to their existing account.
 <img src="doc/login.png">
+
 ## Profile
 The user can then navigate to the User Profile page to input the information to their profile. This information will then become visible to other users as part of their profile.
 <img src="doc/profile.png">
