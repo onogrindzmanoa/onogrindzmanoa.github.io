@@ -15,6 +15,8 @@ After creating a profile, the user will be listed on the public directory page w
 
 We also aim to provide a filter page, available to those who can login to the system with their account. The filter page will allow you to display all portfolios with a given favorite/preference.
 
+[Visit Us on GitHub](https://github.com/onogrindzmanoa)
+
 ## Landing Page
 When the user first arrives on the landing page, they are greeted and informed of what the app does and the services it offers.
 <img src="doc/landing.png">
@@ -57,4 +59,24 @@ This milestone started on November 6, 2018 and will end on November 15, 2018.
 
 The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system along with a functional landing page with a user login option. 
 
+[See Milestone 1 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/1)
+
 Additional milestones will be added as the project progresses.
+
+## Milestone 2: User Functionality
+
+This milestone started on November 15, 2018 and will end on November 27, 2018.
+
+The goal of Milestone 2 is to implement user functionality throughout the application and ensure working pages for vendors and users to present their menus and find matches for their preferences.
+
+[See Milestone 2 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/2)
+
+# Contact Us
+
+You can find out more about the members of the development team and contact them by visiting their sites:
+
+* [Michael Arcangel](https://michaelgarcangel.github.io/)
+* [Christian Cheshire](https://christiancheshire.github.io/)
+* [Weile Lin](https://weilelin123.github.io/)
+* [Derek Nishimoto](https://dereknishimoto.github.io/)
+
