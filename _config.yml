@@ -4,7 +4,7 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-cayman
 github:
-  repository_url: https://github.com/onogrindzmanoa
+  is_project_page: true
 
 gems:
   - jekyll-mentions
