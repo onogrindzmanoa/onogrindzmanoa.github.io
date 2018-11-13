@@ -3,8 +3,8 @@ description: Making Food Choice Easier for the UH Community
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-cayman
-github:
-  repository_url: https://github.com/onogrindzmanoa/onogrindzmanoa.github.io
+github: true
+  repository_url: https://github.com/onogrindzmanoa/onogrindzmanoa
 
 gems:
   - jekyll-mentions
