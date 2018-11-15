@@ -9,11 +9,9 @@
 
 OnoGrindzManoa is a Meteor application currently in development with the goal of providing dining information for the University of Hawaii community. Finding food on campus is a significant challenge, especially when there are so many options. OnoGrindzManoa will enable users to find places to eat which match their preferences and facilitate a better dining experience for the UH Manoa commmunity. This page will be regularly updated with project information throughout the development process.
  
-Once logged in, users will be able to create a profile that provides information about them and a list of favorite/preferred foods and places to eat.
-  
-After creating a profile, the user will be listed on the public directory page where users can view other users with similar interests/preferences.
+Once logged in, vendors will be able to create a profile that provides information about them and their menu. Users will be able to search for vendors/menus that match their preferences.
 
-We also aim to provide a filter page, available to those who can login to the system with their account. The filter page will allow you to display all portfolios with a given favorite/preference.
+We also aim to provide a filter page, available to those who can login to the system with their account. The filter page will allow you to display all vendors with a given favorite/preference.
 
 [Visit Us on GitHub](https://github.com/onogrindzmanoa)
 
@@ -35,7 +33,7 @@ If users do not have an account yet, they register and can then sign in to the a
 [Visit](http://onogrindzmanoa.meteorapp.com/#/signup)
 
 ## Profile
-The user can then navigate to the User Profile page to input the information to their profile. This information will then become visible to other users as part of their profile.
+The user can then navigate to the User Profile page to input the information to their profile. This information will then become visible to other users as part of their profile. This is a planned functionality which may not be implemented fully until later in the development process.
 <img src="doc/profile.png">
 
 ## Add Vendor
@@ -69,7 +67,7 @@ The development process for OnoGrindzManoa will conform to [Issue Driven Project
 
 ## Milestone 1: Mockup development
 
-This milestone started on November 6, 2018 and will end on November 15, 2018.
+This milestone started on November 6, 2018 and ended on November 15, 2018.
 
 The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system along with a functional landing page with a user login option. 
 
