@@ -69,7 +69,7 @@ The development process for OnoGrindzManoa will conform to [Issue Driven Project
 
 This milestone started on November 6, 2018 and ended on November 15, 2018.
 
-The goal of Milestone 1 is to create a set of HTML pages providing a mockup of the pages in the system along with a functional landing page with a user login option. 
+The goal of Milestone 1 was to create a set of HTML pages providing a mockup of the pages in the system along with a functional landing page with a user login option. 
 
 [See Milestone 1 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/1)
 
@@ -77,19 +77,19 @@ Additional milestones will be added as the project progresses.
 
 ## Milestone 2: User Functionality
 
-This milestone started on November 15, 2018 and will end on November 27, 2018.
+This milestone started on November 15, 2018 and ended on November 27, 2018.
 
-The goal of Milestone 2 is to implement user functionality throughout the application and ensure working pages for vendors and users to present their menus and find matches for their preferences.
+The goal of Milestone 2 was to implement user functionality throughout the application and ensure working pages for vendors and users to present their menus and find matches for their preferences.
 
 [See Milestone 2 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/2)
 
 ## Milestone 3: Final Product
 
-This milestone started on November 27, 2018 and will end on November 27, 2018.
+This milestone started on November 27, 2018 and will end on December 6, 2018.
 
-The goal of Milestone 2 is to implement user functionality throughout the application and ensure working pages for vendors and users to present their menus and find matches for their preferences.
+The goal of Milestone 3 is to finalize the app by finishing the implementation of functionality for users and vendors.
 
-[See Milestone 2 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/2)
+[See Milestone 3 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/3)
 
 # Contact Us
 
