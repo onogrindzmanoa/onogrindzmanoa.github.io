@@ -83,6 +83,14 @@ The goal of Milestone 2 is to implement user functionality throughout the applic
 
 [See Milestone 2 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/2)
 
+## Milestone 3: Final Product
+
+This milestone started on November 27, 2018 and will end on November 27, 2018.
+
+The goal of Milestone 2 is to implement user functionality throughout the application and ensure working pages for vendors and users to present their menus and find matches for their preferences.
+
+[See Milestone 2 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/2)
+
 # Contact Us
 
 You can find out more about the members of the development team and contact them by visiting their sites:
