@@ -32,9 +32,9 @@ If users do not have an account yet, they register and can then sign in to the a
 <img src="doc/register-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/signup)
 
-## Profile
-The user can then navigate to the User Profile page to input the information to their profile. This information will then become visible to other users as part of their profile. This is a planned functionality which may not be implemented fully until later in the development process as the primary focus is enabling users to find vendors.
-<img src="doc/profile.png">
+## List Vendors
+The user can then navigate to the list of vendors which enables them to view each vendor's information and has links to their menus. We are working to implement the ability for users to search the database of vendors to find ones which meet their preferences.
+<img src="doc/list-vendor-page.png">
 
 ## Add Vendor
 Vendors can use this page to add/edit their information. This enables them to put their menu, location, and other information on the site.
