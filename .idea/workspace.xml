@@ -13,37 +13,38 @@
     <session id="2078442519">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="md" value="8" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="8" />
+          <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="md" value="1355" />
+          <entry key="md" value="1663" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1355" />
+          <entry key="Markdown" value="1663" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -55,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="222">
-                <caret line="81" column="195" lean-forward="true" selection-start-line="81" selection-start-column="195" selection-end-line="81" selection-end-column="195" />
+              <first_editor relative-caret-position="322">
+                <caret line="35" column="339" selection-start-line="35" selection-start-column="339" selection-end-line="35" selection-end-column="339" />
               </first_editor>
               <second_editor />
             </state>
@@ -123,17 +124,12 @@
               <item name="onogrindzmanoa.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="onogrindzmanoa.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="onogrindzmanoa.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onogrindzmanoa.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,8 +218,8 @@
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="222">
-            <caret line="81" column="195" lean-forward="true" selection-start-line="81" selection-start-column="195" selection-end-line="81" selection-end-column="195" />
+          <first_editor relative-caret-position="322">
+            <caret line="35" column="339" selection-start-line="35" selection-start-column="339" selection-end-line="35" selection-end-column="339" />
           </first_editor>
           <second_editor />
         </state>

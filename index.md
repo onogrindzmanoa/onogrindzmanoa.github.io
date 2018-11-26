@@ -7,11 +7,11 @@
 
 # About OnoGrindzManoa 
 
-OnoGrindzManoa is a Meteor application currently in development with the goal of providing dining information for the University of Hawaii community. Finding food on campus is a significant challenge, especially when there are so many options. OnoGrindzManoa will enable users to find places to eat which match their preferences and facilitate a better dining experience for the UH Manoa commmunity. This page will be regularly updated with project information throughout the development process.
+OnoGrindzManoa is a Meteor application currently in development with the goal of providing dining information for the University of Hawaii community. Finding food on campus is a significant challenge, especially becuase there are so many options. OnoGrindzManoa will enable users to find places to eat which match their preferences and facilitate a better dining experience for the UH Manoa commmunity. This page will be regularly updated with project information throughout the development process.
  
-Once logged in, vendors will be able to create a profile that provides information about them and their menu. Users will be able to search for vendors/menus that match their preferences.
+Once logged in, vendors will be able to create a profile that provides information about them and their menu. Users will be able to search for vendors/menus that match their preferences. Administrators will be able to manage the app and view areas which may be restricted for other users.
 
-We also aim to provide a filter page, available to those who can login to the system with their account. The filter page will allow you to display all vendors with a given favorite/preference.
+We also aim to provide a search function, available to those who can login to the system with their account. The search function will allow users to display all vendors with a given favorite/preference for menu, style of food, quality of service, etc.
 
 [Visit Us on GitHub](https://github.com/onogrindzmanoa)
 
@@ -33,7 +33,7 @@ If users do not have an account yet, they register and can then sign in to the a
 [Visit](http://onogrindzmanoa.meteorapp.com/#/signup)
 
 ## Profile
-The user can then navigate to the User Profile page to input the information to their profile. This information will then become visible to other users as part of their profile. This is a planned functionality which may not be implemented fully until later in the development process.
+The user can then navigate to the User Profile page to input the information to their profile. This information will then become visible to other users as part of their profile. This is a planned functionality which may not be implemented fully until later in the development process as the primary focus is enabling users to find vendors.
 <img src="doc/profile.png">
 
 ## Add Vendor
