@@ -22,6 +22,7 @@ When the user first arrives on the landing page, they are greeted and informed o
 <img src="doc/landing-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/)
 
+
 ## Login
 Clicking Login from the Landing page pulls up the Login window. Users can either create an account or sign in to their existing account.
 <img src="doc/login-page.png">
