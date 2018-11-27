@@ -4,17 +4,18 @@
 * [Installation](#installation)
 * [Development history](#development-history)
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
+  * [Milestone 2: User functionality](#milestone-2-user-functionality)
+  * [Milestone 3: Final product](#milestone-3-final-product)
 
 # About OnoGrindzManoa 
 
 OnoGrindzManoa is a Meteor application currently in development with the goal of providing dining information for the University of Hawaii community. Finding food on campus is a significant challenge, especially becuase there are so many options. OnoGrindzManoa will enable users to find places to eat which match their preferences and facilitate a better dining experience for the UH Manoa commmunity. This page will be regularly updated with project information throughout the development process.
+
+Users can access certain functions of the app publicly, but to add or edit information users/vendors must create an account and login.
  
 Once logged in, vendors will be able to create a profile that provides information about them and their menu. Users will be able to search for vendors/menus that match their preferences. Administrators will be able to manage the app and view areas which may be restricted for other users.
 
 We also aim to provide a search function, available to those who can login to the system with their account. The search function will allow users to display all vendors with a given favorite/preference for menu, style of food, quality of service, etc.
-
-[Visit Us on GitHub](https://github.com/onogrindzmanoa)
-
 [Visit the App](http://onogrindzmanoa.meteorapp.com)
 
 ## Landing Page
@@ -22,9 +23,13 @@ When the user first arrives on the landing page, they are greeted and informed o
 <img src="doc/landing-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/)
 
+## Vendor List
+Users can navigate to the list of vendors from the landing page. Only vendors and administrators can add or edit vendors. Users who try to edit or add a vendor will be prompted to login. 
+<img src="doc/public-vendors-page.png">
+[Visit](http://onogrindzmanoa.meteorapp.com/#/list)
 
 ## Login
-Clicking Login from the Landing page pulls up the Login window. Users can either create an account or sign in to their existing account.
+Clicking Login from the Landing page or when prompted on the vendor page pulls up the Login window. Users can either create an account or sign in to their existing account.
 <img src="doc/login-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/signin)
 
