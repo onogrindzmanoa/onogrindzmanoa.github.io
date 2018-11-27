@@ -25,7 +25,7 @@ When the user first arrives on the landing page, they are greeted and informed o
 
 ## Vendor List
 Users can navigate to the list of vendors from the landing page. Only vendors and administrators can add or edit vendors. Users who try to edit or add a vendor will be prompted to login. 
-<img src="doc/public-vendors-page.png">
+<img src="doc/public-vendor-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/list)
 
 ## Login
@@ -38,18 +38,17 @@ If users do not have an account yet, they register and can then sign in to the a
 <img src="doc/register-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/signup)
 
-## List Vendors
+## Vendor List
 The user can then navigate to the list of vendors which enables them to view each vendor's information and has links to their menus. We are working to implement the ability for users to search the database of vendors to find ones which meet their preferences.
 <img src="doc/list-vendor-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/list)
 
-## Add Vendor
+## Add New Vendor
 Vendors can use this page to add/edit their information. This enables them to put their menu, location, and other information on the site.
 <img src="doc/add-vendor-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/add)
 
 # Installation
-
 First, you will need to [install Meteor](https://www.meteor.com/install).
 
 Second, you must [download a copy of OnoGrindzManoa](https://github.com/onogrindzmanoa/onogrindzmanoa), or clone it using github.
