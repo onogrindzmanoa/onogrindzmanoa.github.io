@@ -6,6 +6,7 @@
   * [Milestone 1: Mockup development](#milestone-1-mockup-development)
   * [Milestone 2: User functionality](#milestone-2-user-functionality)
   * [Milestone 3: Final product](#milestone-3-final-product)
+* [Contact](#contact-us)
 
 # About OnoGrindzManoa 
 
@@ -42,6 +43,11 @@ If users do not have an account yet, they register and can then sign in to the a
 The user can then navigate to the list of vendors which enables them to view each vendor's information and has links to their menus. We are working to implement the ability for users to search the database of vendors to find ones which meet their preferences.
 <img src="doc/list-vendor-page.png">
 [Visit](http://onogrindzmanoa.meteorapp.com/#/list)
+
+## Vendor Locations
+Users can also navigate to the map of the University of Hawaii - Manoa campus which shows the vendor locations.
+<img src="doc/location-page.png">
+[Visit](http://onogrindzmanoa.meteorapp.com/#/maps)
 
 ## Add New Vendor
 Vendors can use this page to add/edit their information. This enables them to put their menu, location, and other information on the site.
@@ -91,9 +97,9 @@ The goal of Milestone 2 was to implement user functionality throughout the appli
 
 ## Milestone 3: Final Product
 
-This milestone started on November 27, 2018 and will end on December 6, 2018.
+This milestone started on November 27, 2018 and ended on December 6, 2018.
 
-The goal of Milestone 3 is to finalize the app by finishing the implementation of functionality for users and vendors.
+The goal of Milestone 3 was to finalize the app by finishing the implementation of functionality for users and vendors and adding mockups of future functionality.
 
 [See Milestone 3 on GitHub](https://github.com/onogrindzmanoa/onogrindzmanoa/projects/3)
 
