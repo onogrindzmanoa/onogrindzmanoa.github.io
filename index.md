@@ -72,7 +72,7 @@ Fourth, run the system with:
 $ meteor npm run start
 ```
 
-If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). 
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000). You will then be able to make changes to the app using an editor or IDE (Integrated Development Environment). 
 
 # Development History
 
@@ -108,23 +108,28 @@ The goal of Milestone 3 was to finalize the app by finishing the implementation 
 As part of Milestone 3, the OnoGrindzTeam solicited feedback from members of the UH Community. A series of 5 questions were asked. Selected responses are displayed here.
 
 <img src="doc/feedback-1.png">
+
 Users responded with generally positive ratings. The average rating was between 3 and 4 on a scale of 1 to 5. 
 
 <img src="doc/feedback-2.png">
+
 Users responded with a variety of ideas, some of which we had already thought of as plans for further development.
 
 <img src="doc/feedback-3.png">
+
 Overall, users wanted more functionality which is our long-term goal.
 
 <img src="doc/feedback-4.png">
+
 Generally, users like the idea and goals of the app, but want to see more ideas implemented.
 
 <img src="doc/feedback-5.png">
+
 All users responded positively to this question, which clearly demonstrates the desire among consumers for an app that will fulfill these functions and improve the ability of the UH community to search for food options.
 
 # Contact Us
 
-You can find out more about the members of the development team and contact them by visiting their sites:
+You can find out more about the members of the development team and contact them by visiting their websites:
 
 * [Michael Arcangel](https://michaelgarcangel.github.io/)
 * [Christian Cheshire](https://christiancheshire.github.io/)
