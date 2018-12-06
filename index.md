@@ -117,7 +117,7 @@ Users responded with a variety of ideas, some of which we had already thought of
 
 <img src="doc/feedback-3.png">
 
-Overall, users wanted more functionality which is our long-term goal.
+Overall, users wanted more functionality, which is our long-term goal.
 
 <img src="doc/feedback-4.png">
 
