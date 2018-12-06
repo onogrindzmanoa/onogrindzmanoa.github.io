@@ -107,25 +107,20 @@ The goal of Milestone 3 was to finalize the app by finishing the implementation 
 # Community Feedback
 As part of Milestone 3, the OnoGrindzTeam solicited feedback from members of the UH Community. A series of 5 questions were asked. Selected responses are displayed here.
 
-## How would you rate this application?
-Users responded with generally positive ratings. The average rating was between 3 and 4 on a scale of 1 to 5. 
 <img src="doc/feedback-1.png">
+Users responded with generally positive ratings. The average rating was between 3 and 4 on a scale of 1 to 5. 
 
-## What features would you add to improve this application?
-Users responded with a variety of ideas, some of which we had already thought of as plans for further development.
 <img src="doc/feedback-2.png">
+Users responded with a variety of ideas, some of which we had already thought of as plans for further development.
 
-## What aspects of this application should be improved?
-Overall, users wanted more functionality which is our long-term goal.
 <img src="doc/feedback-3.png">
+Overall, users wanted more functionality which is our long-term goal.
 
-## What aspects of this application do you like?
-Generally, users like the idea and goals of the app, but want to see more ideas implemented.
 <img src="doc/feedback-4.png">
+Generally, users like the idea and goals of the app, but want to see more ideas implemented.
 
-## Would you recommend this app to a friend?
-All users responded positively to this question, which clearly demonstrates the desire among consumers for an app that will fulfill these functions and improve the ability of the UH community to search for food options.
 <img src="doc/feedback-5.png">
+All users responded positively to this question, which clearly demonstrates the desire among consumers for an app that will fulfill these functions and improve the ability of the UH community to search for food options.
 
 # Contact Us
 
